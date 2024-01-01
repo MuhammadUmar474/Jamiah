@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405531048908",
+    "project_id": "jamiah-a6aa2",
+    "storage_bucket": "jamiah-a6aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405531048908:android:28ca1f97f3cbd5a5613b69",
+        "android_client_info": {
+          "package_name": "com.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405531048908-sfqumtcgkfoq35i49118p4i6sajq5fne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBzv9SL3yQ8SRoDQpyhPv2IXcDjwkjDRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405531048908-sfqumtcgkfoq35i49118p4i6sajq5fne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
